@@ -4,3 +4,5 @@ bokeh
 plotly
 pandas
 numpy
+jupyter
+ipykernel
